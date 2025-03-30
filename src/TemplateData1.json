@@ -1,0 +1,12 @@
+[
+    {
+        "img": "http://localhost:5173/src/img9.png",
+        "title": "American Saddlebred Horse",
+        "link": "http://localhost:5173/American saddlebred horse"
+    },
+    {        
+        "img": "http://localhost:5173/src/img10.png",
+        "title": "American Curly Horse",
+        "link": "http://localhost:5173/American curly horse"
+    } 
+]

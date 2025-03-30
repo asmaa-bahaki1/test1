@@ -1,0 +1,18 @@
+[
+    {
+        "img": "http://localhost:5173/src/img6.png",
+        "title": "Akhal Teke Horse",
+        "link": "http://localhost:5173/Akhal teke horse"
+
+    },
+    {
+        "img": "http://localhost:5173/src/img7.png",
+        "title": "American Paint Horse",
+        "link": "http://localhost:5173/American paint horse"
+    },
+    {
+        "img": "http://localhost:5173/src/img8.png",
+        "title": "American Quarter Horse",
+        "link": "http://localhost:5173/American quarter horse"
+    }  
+]
